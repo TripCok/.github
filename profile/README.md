@@ -16,7 +16,8 @@
 ## **📅 1차 Schedule**
 
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/59ca4afd-6d22-4d8d-ab75-e1cc84379609" alt="1차 Schedule">
+  <img width="1677" alt="스크린샷 2024-11-15 오후 5 12 53" src="https://github.com/user-attachments/assets/17f20cfd-a984-44c2-ab64-d39b8f214e79">
+
 </div>
 
 ---

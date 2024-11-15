@@ -62,9 +62,9 @@
 | 사용자 이미지 | 사용자 이미지 |
 |----------------|----------------|
 | <img src="https://github.com/user-attachments/assets/1d9954e4-f162-4ff5-8acf-b749fb1d5cd0" width="50%" style="display:block; margin:auto;"> | <img src="https://github.com/user-attachments/assets/faebaeaf-1722-4a10-a398-1fba10ecc2a3" width="50%" style="display:block; margin:auto;"> |
-| **[PM] 이정훈** | **[] 김령래** |
+| **[PM] 이정훈** | **[TL] 김령래** |
 | <img src="https://github.com/user-attachments/assets/1317f516-941b-4258-9f44-b23f40546cea" width="50%" style="display:block; margin:auto;"> | <img src="https://github.com/user-attachments/assets/18292e29-8bab-4c65-abd0-fadf6e253d02" width="50%" style="display:block; margin:auto;"> |
-| **[] 최하람** | **[] 정세현** |
+| **[AC] 최하람** | **[AA] 정세현** |
 | <img src="https://github.com/user-attachments/assets/6c572c13-2f18-4c4b-bd04-91cadbc727cd" width="50%" style="display:block; margin:auto;"> |  |
 | **[GL] 김예지** | |
 

@@ -65,4 +65,6 @@
 | **[PM] 이정훈** | **[] 김령래** |
 | <img src="https://github.com/user-attachments/assets/1317f516-941b-4258-9f44-b23f40546cea" width="50%" style="display:block; margin:auto;"> | <img src="https://github.com/user-attachments/assets/18292e29-8bab-4c65-abd0-fadf6e253d02" width="50%" style="display:block; margin:auto;"> |
 | **[] 최하람** | **[] 정세현** |
-| <img src="https://github.com/user-attachments/assets/6c572c13-2f18-4c4b-bd04-91cadbc727cd" width="50%" style="display:block; margin:auto;"> | **[GL] 김예지** |
+| <img src="https://github.com/user-attachments/assets/6c572c13-2f18-4c4b-bd04-91cadbc727cd" width="50%" style="display:block; margin:auto;"> |  |
+| **[GL] 김예지** | |
+

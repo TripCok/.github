@@ -13,15 +13,21 @@
 
 트립콕 프로젝트는 맞춤형 추천과 커뮤니티 기반의 협력적 경험을 통해 여행의 즐거움과 만족도를 극대화하는 데 중점을 두고 있습니다.
 
-# 간략 소개
-## Spring Server -> [link](https://github.com/TripCok/TripCok_server)
+## **⏳ 프로젝트 기간**
+**2024년 11월 14일 ~ 2024년 12월 31일**
+
+## **🪧 작업 간략 소개**
+
+### Spring Server -> [link](https://github.com/TripCok/TripCok_server)
 TripCokServer는 여행지, 모임, 게시글, 댓글 등 여행 플랫폼에서 필요한 핵심 기능을 제공하는 Spring Boot 기반의 서버입니다. 이 서버는 사용자들에게 최적의 여행 경험을 제공하기 위해 회원 관리, 모임 생성 및 관리, 여행지 정보 조회, 게시글 및 댓글 작성과 같은 다양한 기능을 지원합니다.
 
 또한, TripCokServer는 서버에서 발생하는 사용자 활동 및 시스템 로그를 효과적으로 수집하기 위해 Apache Kafka를 활용합니다. 사용자의 행동 데이터를 실시간으로 Kafka로 전송하여 중앙 집중형 로그 시스템을 구축하고, 이를 통해 유의미한 데이터의 집계와 분석이 가능하도록 설계되었습니다. 이러한 설계는 데이터 기반 의사결정과 서비스 개선을 지원하며, 로그 데이터를 활용해 사용자 행동 분석, 트렌드 파악, 서비스 최적화를 수행할 수 있습니다.
 
 TripCokServer는 확장성과 안정성을 고려하여 설계되었으며, 향후 추가 기능 구현과 데이터 분석을 위한 탄탄한 기반을 제공합니다.
 
-## Thymeleaf Admin -> [link](https://github.com/TripCok/TripCok_server/tree/0.2-dev/src/main/resources/templates)
+  ---
+
+### Thymeleaf Admin -> [link](https://github.com/TripCok/TripCok_server/tree/0.2-dev/src/main/resources/templates)
 Thymeleaf로 구현된 페이지는 관리자 전용(Admin) 페이지로, 매니저들이 서버의 다양한 데이터를 효율적으로 관리하고 분석할 수 있도록 설계되었습니다.
 
 이 페이지에서는 사용자 증감률, 여행지의 시간대별 조회수, 모임 신청의 증가 및 감소 추이와 같은 주요 지표를 시각적으로 확인할 수 있습니다. 이러한 데이터는 차트, 그래프 등의 시각화 자료로 제공되어 데이터의 흐름과 변화를 직관적으로 파악할 수 있도록 도와줍니다.
@@ -35,7 +41,9 @@ Thymeleaf로 구현된 페이지는 관리자 전용(Admin) 페이지로, 매니
 
 Thymeleaf 기반의 이 페이지는 사용자 친화적인 UI/UX를 제공하며, 확장 가능하도록 설계되어 향후 추가 기능 구현에도 유연하게 대응할 수 있습니다.
 
-## React native App [link](https://github.com/TripCok/TripCok_App)
+  ---
+  
+### React native App [link](https://github.com/TripCok/TripCok_App)
 TripCok React Native 앱은 사용자 중심으로 설계된 여행 및 모임 플랫폼으로, 개인의 취향에 맞춘 여행지와 그룹 추천 서비스를 제공합니다. 사용자는 다양한 사람들과의 모임 활동을 통해 새로운 경험과 인맥을 쌓을 수 있으며, 앱의 직관적인 UI/UX를 통해 편리하게 기능을 사용할 수 있습니다.
 
 주요 기능
@@ -45,12 +53,11 @@ TripCok React Native 앱은 사용자 중심으로 설계된 여행 및 모임 �
 - 편리한 UI/UX: 직관적이고 간편한 탐색 및 관리 인터페이스로 사용자 편의성 제공.
 TripCok 앱은 여행과 소셜 활동을 한 곳에서 관리할 수 있는 통합 플랫폼으로, 사용자에게 최적의 여행 경험과 네트워킹 기회를 제공합니다.
 
-## Model
+  ---
+  
+### Model
 
-## Infra
-
-## **⏳ Project Duration**
-**2024년 11월 14일 ~ 2024년 12월 31일**
+### Infra
 
 
 - 

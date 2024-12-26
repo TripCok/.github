@@ -58,9 +58,15 @@ TripCok 앱은 여행과 소셜 활동을 한 곳에서 관리할 수 있는 통
 ### Model
 
 ### Infra
+- Spring
+- Kafka Controller + Broker
+- Spark Master + Worker
+- Airflow
+- Superset
+- DB(MariaDB, Postgres)
+- Zenkins
+- Flask
 
-
-- 
 
 
 

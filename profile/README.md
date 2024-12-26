@@ -39,7 +39,7 @@ Thymeleaf로 구현된 페이지는 관리자 전용(Admin) 페이지로, 매니
   
 ---
   
-### React native App [link](https://github.com/TripCok/TripCok_App)
+### React native App -> [link](https://github.com/TripCok/TripCok_App)
 TripCok React Native 앱은 사용자 중심으로 설계된 여행 및 모임 플랫폼으로, 개인의 취향에 맞춘 여행지와 그룹 추천 서비스를 제공
 
 **구성**
@@ -54,9 +54,8 @@ TripCok React Native 앱은 사용자 중심으로 설계된 여행 및 모임 �
 ### Model
 
 ### Infra
-- Spring
-- Kafka Controller + Broker
-- Spark Master + Worker
+- Kafka
+- Spark
 - Airflow
 - Superset
 - DB(MariaDB, Postgres)

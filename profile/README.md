@@ -1,5 +1,5 @@
 # 📍 Tripcok 트립콕 📍
-# ![img_1.png](img_1.png)
+# ![TripCok Preview](images/Tripcok_readme.png)
 
 ---
 

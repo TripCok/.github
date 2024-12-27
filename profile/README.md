@@ -1,4 +1,7 @@
-# ![image](https://github.com/user-attachments/assets/540d50ac-e16e-4771-9e68-6d9e88ede939) **DE32-fin-4team-Tripcok-tripcok**
+# 📍 Tripcok 트립콕 📍
+# ![img_1.png](img_1.png)
+
+---
 
 ## **📌 프로젝트 목표**
 

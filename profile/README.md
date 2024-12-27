@@ -1,5 +1,4 @@
 # 📍 Tripcok 트립콕 📍
-# 📌 Tripcok 트립콕 
 # ![TripCok Preview](images/Tripcok_readme.png)
 
 ---

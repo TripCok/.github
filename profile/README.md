@@ -25,25 +25,28 @@
 
 
 ## 📚 기술스택
+Data Engineering
+<br>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/>
+<br>
 Language&build tool
 <br>
-<img src="https://img.shields.io/badge/Java-536DFE?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-536DFE?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
 Framework
 <br>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-<br>
-Library
-<br>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
 Database
 <br>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <br>
-Deploy
+Storage
 <br>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+<br>
+
+
 
 
 
@@ -106,13 +109,13 @@ TripCok 의 추천 시스템을 담당하는 부분으로, 입력받은 데이�
 
 
 ### Infra
-- Kafka
-- Spark
-- Airflow
-- Superset
-- DB(MariaDB, Postgres)
-- Zenkins
-- Flask
+- Kafka : 내구성과 확장성을 고려한 메시지 큐로 메시지를 안전하게 전송하기 위함
+- Spark : 대규모 데이터를 빠르게 처리하기 위함, 다양한 데이터 소스와 결합 가능(S3, MariaDB)
+- Airflow : ETL 작업 및 워크플로우 스케줄링,실행 상태를 대시보드로 모니터링
+- Superset : 사용자 친화적인 대시보드로 데이터를 쉽게 탐색, 데이터베이스의 데이터를 대화형 차트로 분석
+- DB(MariaDB, Postgres) : 데이터 저장 및 관리
+- Zenkins : 애플리케이션 빌드, 테스트, 배포 자동화
+- Flask : 모델 예측 결과값 반환하는 REST API
 
 
 

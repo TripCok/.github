@@ -53,7 +53,6 @@ Storage
 ## 🔧 사용 툴
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
@@ -115,6 +114,7 @@ TripCok 의 추천 시스템을 담당하는 부분으로, 입력받은 데이�
 - Superset : 사용자 친화적인 대시보드로 데이터를 쉽게 탐색, 데이터베이스의 데이터를 대화형 차트로 분석
 - DB(MariaDB, Postgres) : 데이터 저장 및 관리
 - Zenkins : 애플리케이션 빌드, 테스트, 배포 자동화
+- Spring : 클라이언트 측 REST API 서버
 - Flask : 모델 예측 결과값 반환하는 REST API
 
 

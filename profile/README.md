@@ -1,6 +1,8 @@
 # 📍 Tripcok 트립콕 📍
- [![Watch the video](images/Tripcok_readme.png)](https://youtube.com/shorts/Xh30qyct_4E?feature=share)
+ [![Watch the video](images/Tripcok_readme.png)](https://youtu.be/xnAhT85U5mw)
 ---
+> 이미지를 클릭하면 시연영상을 시청할 수 있습니다!
+
 
 ## **📌 프로젝트 목표**
 
@@ -12,14 +14,6 @@
 
 ### 관리자 페이지 
 - 관리자 페이지에서는 모델의 정확도 및 일별/월별 데이터 집계 정보를 모니터링할 수 있는 기능을 제공
-
-
-
-| 기능          | 설명                       | 시연 영상                                                                   |
-|-------------|--------------------------|-------------------------------------------------------------------------|
-| **모임 생성**   | 카테고리를 선택하여 나만의 모임 생성하기   | [Watch the Video](https://youtube.com/shorts/Xh30qyct_4E?feature=share) |
-| **여행지 추천**  | 내 관심 카테고리에 해당하는 여행지 추천받기 | [Watch the Video]()                                                     |
-| **관리자 페이지** | 데이터 집계를 모니터링하기           |   [Watch the Video]()                                                     |
 
 
 
